@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prem Kumar Badri
-- 🌱 I’m currently learning Azure AI Services, Document Intelligence, OCR, Other Azuer Services
-- 💬 Ask me about **C#, ASP.net MVC, SSIS, Azure Devops,Azure Cloud**
+- 🌱 I’m currently learning Azure AI Services, AI Tanslation, Azure AI Vision, Document Intelligence, OCR, Other Azuer Services
+- 💬 Ask me about **Lilly Translate**
 - 📫 How to reach me premkumar.badri@lilly.com
 
 <h3 align="left">Connect with me:</h3>
